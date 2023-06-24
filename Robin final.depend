@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1687013076 source:d:\code\robin final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+
+1687014044 d:\code\robin final\splash.h
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<dos.h>
+
+1687013076 d:\code\robin final\login.h
+	<stdio.h>
+
+1687013076 d:\code\robin final\menu.h
+	<stdio.h>
+
